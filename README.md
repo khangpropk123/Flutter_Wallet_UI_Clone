@@ -1,8 +1,10 @@
 # page_view
 
 A new Flutter project.
-
-## Getting Started
+## Screen Shot
+[https://github.com/khangpropk123/Flutter_Wallet_UI_Clone/blob/master/Screen/Screen%20Shot%202019-10-28%20at%2011.31.35.png]
+[https://github.com/khangpropk123/Flutter_Wallet_UI_Clone/blob/master/Screen/Screen%20Shot%202019-10-28%20at%2011.31.42.png]
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
